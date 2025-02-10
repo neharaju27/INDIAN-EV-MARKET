@@ -1,5 +1,5 @@
 # Indian EV Market Dashboard 📊
-![Alt Text]("C:\Users\nehan\OneDrive\Pictures\Screenshots\Screenshot 2025-02-10 092844.png")
+![Alt Text]("Screenshot 2025-02-10 092844.png")
 
 
 ## Introduction
