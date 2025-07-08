@@ -17,8 +17,7 @@ Data Analysis using Python Libraries
 
 
 ## Deplolyed App
-Indian EV Market: https://indian-ev-market-hc6xwtujefvqfswuyblswd.streamlit.app/
-
+Indian EV Market: https://indian-ev-markets-iyb9zidbn4dftn9lqtgeco.streamlit.app/
 ## Directory Structure
 INDIAN-EV-MARKET-DASHBOARD
 - ├─ assets/
